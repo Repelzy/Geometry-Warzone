@@ -17,3 +17,7 @@ A classic arcade-style shooter game implemented in C++ using the SFML (Simple an
 - **Special Ability**: Right mouse button to activate special abilities for clearing enemies.
 - **Pause**: Press the 'P' key to pause/unpause the game.
 - **Quit**: Close the window to exit the game.
+
+  Preview:
+  ![image](https://github.com/Repelzy/Geometry-Warzone/assets/89698425/c38de6a6-1e19-4a24-af50-76e07843fa59)
+
